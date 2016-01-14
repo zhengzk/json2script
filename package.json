@@ -1,0 +1,29 @@
+{
+  "name": "json2script",
+  "version": "0.0.1",
+  "description": "parse json to script",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengzk/json2script.git"
+  },
+  "keywords": [
+    "json",
+    "script",
+    "parse",
+    "gulp"
+  ],
+  "author": "zhengzk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengzk/json2script/issues"
+  },
+  "homepage": "https://github.com/zhengzk/json2script#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "through2": "^2.0.0"
+  }
+}
